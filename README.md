@@ -30,5 +30,6 @@ Connect the SD card module to the Arduino Uno as follows:
 7. Wait for the message “Found X sensors.” (where X is the number of sensors found).
 8. Wait for the message “Writing to file…”.
 9. Wait for the message “Done.”.
+10. The data will be written to a file named “TEMP.csv” on the SD card.
 
-The data will be written to a file named “TEMP.csv” on the SD card.
+You can change the delay as your need.
